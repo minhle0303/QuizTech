@@ -13,7 +13,7 @@ Batch no.: T1.2303.M0 CENTER NAME: APTECH-HCMC-2-FPT Project title: QuiTech
 
 ============================
 
-github report link: https://github.com/minhle0303/QuizTech.git
+github report link: https://github.com/minhle0303/QuizTech/tree/main/document
 
 ============================
 
