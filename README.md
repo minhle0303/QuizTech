@@ -1,5 +1,5 @@
 2303.M0-QuizTech Project-Group_3
-Batch no.: T1.2303.M0 CENTER NAME: APTECH-HCMC-2-FPT Project title: QuiTech
+Batch no.: T1.2303.M0 CENTER NAME: APTECH-HCMC-2-FPT Project title: QuizTech
 
 ========> Group 3 <=========
 
@@ -22,3 +22,4 @@ QuizTech published at https://github.com/minhle0303/QuizTech.git
 ============================
 
 Để chạy chương trình double click vào QuizTech.jar nằm trong QuizTech/dist/QuizTech.jar
+Đọc hướng dẫn cài đặt chương trình ở Installation_Guide_QuizTech.docx tại: https://github.com/minhle0303/QuizTech/tree/main/document/
